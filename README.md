@@ -1,2 +1,2 @@
 # Weather-App
-This is a weather made up of Html Css and Js
+This is a weather made up of Html Css and Js .
